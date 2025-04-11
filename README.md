@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diana Kryzhanivska
 
-## Full-stack Developer | 1 Year of Experience
+## Full-stack Developer | 1 Year of Commercial Experience
 
 I'm a passionate full-stack developer who loves building responsive, user-friendly web applications.  
 Experienced in both frontend and backend technologies, always learning and pushing the limits of what I can create.
